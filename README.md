@@ -14,12 +14,12 @@ Then if you have a GPU, download the pyopencl‑2018.1.1+cl12‑cp27‑cp27m‑w
 
 and then move the .whl file to a folder and open cmd in that folder
 
-then do the commands - 
-                       pip install pycryptodome
+then do the commands: 
+pip install pycryptodome
 
-                       pip install cryptography 
+pip install cryptography 
 
-                       pip install pyopencl-2018.1.1+cl12-cp27-cp27m-win_amd64.whl (run this if you have a GPU)
+pip install pyopencl-2018.1.1+cl12-cp27-cp27m-win_amd64.whl (run this if you have a GPU)
  
 
 
