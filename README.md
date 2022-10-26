@@ -11,8 +11,8 @@ Then you need to update pip using the command - python -m pip install --upgrade 
 Then if you have a GPU, download the pyopencl‑2018.1.1+cl12‑cp27‑cp27m‑win_amd64.whl from
 - https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyopencl  (I have included this file in the download)
 
-
 and then move the .whl file to a folder and open cmd in that folder
+
 
 then do the commands: 
 
@@ -22,6 +22,8 @@ pip install cryptography
 
 pip install pyopencl-2018.1.1+cl12-cp27-cp27m-win_amd64.whl (run this if you have a GPU)
  
+
+
 
 
 Now you can run BTCrecover.py to start cracking.
